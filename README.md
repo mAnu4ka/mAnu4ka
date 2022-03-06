@@ -34,9 +34,9 @@ ____
 
 <br />
 
-  [![mAnu4ka GitHub stats](https://github-readme-stats.vercel.app/api?username=mAnu4ka&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  [![top-leng](https://github-readme-stats.vercel.app/api/top-langs/?username=mAnu4ka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![mAnu4ka's github activity graph](https://activity-graph.herokuapp.com/graph?username=mAnu4ka)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![mAnu4ka GitHub stats](https://github-readme-stats.vercel.app/api?username=mAnu4ka&theme=merko)](https://github.com/mAnu4ka)
+  [![top-leng](https://github-readme-stats.vercel.app/api/top-langs/?username=mAnu4ka&layout=compact)](https://github.com/mAnu4ka)
+  [![mAnu4ka's github activity graph](https://activity-graph.herokuapp.com/graph?username=mAnu4ka)](https://github.com/mAnu4ka)
 
 
 

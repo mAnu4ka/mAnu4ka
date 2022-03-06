@@ -11,12 +11,9 @@ school and learn other programming languages
 ✍️ &nbsp;In my free time, I pursue  write code more code.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at manu4ka0@mail.ru! I'll try to respond as soon as I can.\
-<br/>
----
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<br/>
----
+
 ### 🛠 &nbsp;Tech Stack
 #### while I'm learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,8 +26,7 @@ ____
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br/>
----
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -39,12 +35,9 @@ ____
   [![mAnu4ka GitHub stats](https://github-readme-stats.vercel.app/api?username=mAnu4ka&theme=merko)](https://github.com/mAnu4ka)
   [![top-leng](https://github-readme-stats.vercel.app/api/top-langs/?username=mAnu4ka&layout=compact)](https://github.com/mAnu4ka)
   [![mAnu4ka's github activity graph](https://activity-graph.herokuapp.com/graph?username=mAnu4ka)](https://github.com/mAnu4ka)
-<br/>
----
 
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
----
+
 

@@ -37,6 +37,6 @@ ____
 
 ### Now Playing 🎧
 
-[![Spotify](https://asd-sadaqds.vercel.app/api/spotify)](https://open.spotify.com/user/mAnu4ka)
+[![Spotify](https://asd-sadaqds.vercel.app/api/spotify)](https://open.spotify.com/user/31ksph5aqjvg6fzik3erg3erqsju)
 
 
